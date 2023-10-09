@@ -1,0 +1,15 @@
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\net7.0\DatesAndTimes.exe
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\net7.0\DatesAndTimes.deps.json
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\net7.0\DatesAndTimes.runtimeconfig.json
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\net7.0\DatesAndTimes.dll
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\bin\Debug\net7.0\DatesAndTimes.pdb
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.csproj.AssemblyReference.cache
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.AssemblyInfoInputs.cache
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.AssemblyInfo.cs
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.dll
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\refint\DatesAndTimes.dll
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.pdb
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\DatesAndTimes.genruntimeconfig.cache
+C:\Users\melissa.pereira\source\repos\DatesAndTimes\DatesAndTimes\obj\Debug\net7.0\ref\DatesAndTimes.dll
